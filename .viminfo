@@ -15,15 +15,21 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1732106894,,"wq"
+|2,0,1741265055,,"wq"
+:Wq
+|2,0,1741265053,,"Wq"
+:0
+|2,0,1738148263,,"0"
+:400
+|2,0,1738148259,,"400"
+:q
+|2,0,1734526667,,"q"
 :w
-|2,0,1732106770,,"w"
+|2,0,1732708215,,"w"
 :WQ
 |2,0,1732104035,,"WQ"
 :gg
 |2,0,1731497653,,"gg"
-:q
-|2,0,1731418248,,"q"
 :q<Enter>
 |2,0,1731418242,,"q<Enter>"
 :set number
@@ -98,230 +104,413 @@
 |3,0,36,0,1,0,1730891484," "
 
 # File marks:
-'0  9  27  ~/EXEC_Jacob_Navarro/ejercicio6.c
-|4,48,9,27,1732106894,"~/EXEC_Jacob_Navarro/ejercicio6.c"
-'1  12  42  ~/EXEC_Jacob_Navarro/ejercicio5.c
-|4,49,12,42,1732106876,"~/EXEC_Jacob_Navarro/ejercicio5.c"
-'2  13  37  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,50,13,37,1732106842,"~/EXEC_Jacob_Navarro/ejercicio4.c"
-'3  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,51,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
-'4  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,52,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
-'5  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,53,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
-'6  12  338  ~/EXEC_Jacob_Navarro/ejercicio6.c
-|4,54,12,338,1732104640,"~/EXEC_Jacob_Navarro/ejercicio6.c"
-'7  12  338  ~/EXEC_Jacob_Navarro/ejercicio6.c
-|4,55,12,338,1732104640,"~/EXEC_Jacob_Navarro/ejercicio6.c"
-'8  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,56,41,8,1732104125,"~/EXEC_Jacob_Navarro/ejercicio2.c"
-'9  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,57,41,8,1732104125,"~/EXEC_Jacob_Navarro/ejercicio2.c"
+'0  13  2  ~/CFGS-DAM/BOOM.c
+|4,48,13,2,1741265055,"~/CFGS-DAM/BOOM.c"
+'1  4  21  ~/script.c
+|4,49,4,21,1741264959,"~/script.c"
+'2  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,50,8,31,1741255970,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'3  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,51,8,31,1741255924,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'4  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,52,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'5  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,53,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'6  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,54,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'7  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,55,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'8  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,56,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+'9  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,57,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
 
 # Jumplist (newest first):
--'  9  27  ~/EXEC_Jacob_Navarro/ejercicio6.c
-|4,39,9,27,1732106894,"~/EXEC_Jacob_Navarro/ejercicio6.c"
--'  12  338  ~/EXEC_Jacob_Navarro/ejercicio6.c
-|4,39,12,338,1732106885,"~/EXEC_Jacob_Navarro/ejercicio6.c"
--'  12  42  ~/EXEC_Jacob_Navarro/ejercicio5.c
-|4,39,12,42,1732106876,"~/EXEC_Jacob_Navarro/ejercicio5.c"
--'  12  42  ~/EXEC_Jacob_Navarro/ejercicio5.c
-|4,39,12,42,1732106876,"~/EXEC_Jacob_Navarro/ejercicio5.c"
--'  13  37  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,13,37,1732106842,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  13  37  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,13,37,1732106842,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  13  37  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,13,37,1732106842,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  13  37  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,13,37,1732106842,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  11  9  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,11,9,1732106788,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  11  9  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,11,9,1732106788,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  11  9  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,11,9,1732106788,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  11  9  ~/EXEC_Jacob_Navarro/ejercicio4.c
-|4,39,11,9,1732106788,"~/EXEC_Jacob_Navarro/ejercicio4.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  6  0  ~/EXEC_Jacob_Navarro/ejercicio3.c
-|4,39,6,0,1732106786,"~/EXEC_Jacob_Navarro/ejercicio3.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  19  2  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,19,2,1732106781,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  41  8  ~/EXEC_Jacob_Navarro/ejercicio2.c
-|4,39,41,8,1732106745,"~/EXEC_Jacob_Navarro/ejercicio2.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  16  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,16,9,1732106742,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
--'  3  9  ~/EXEC_Jacob_Navarro/ejercicio1.c
-|4,39,3,9,1732106651,"~/EXEC_Jacob_Navarro/ejercicio1.c"
+-'  13  2  ~/CFGS-DAM/BOOM.c
+|4,39,13,2,1741265055,"~/CFGS-DAM/BOOM.c"
+-'  4  21  ~/script.c
+|4,39,4,21,1741264959,"~/script.c"
+-'  4  21  ~/script.c
+|4,39,4,21,1741264959,"~/script.c"
+-'  1  0  ~/script.c
+|4,39,1,0,1741264952,"~/script.c"
+-'  1  0  ~/script.c
+|4,39,1,0,1741264952,"~/script.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255970,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255970,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255970,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255970,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255924,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255924,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255924,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  8  31  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,8,31,1741255924,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255905,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  16  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,16,1,1741255883,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255870,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  1  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,3,1,1741255852,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  1  0  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+|4,39,1,0,1741255270,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
+-'  3  41  ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+|4,39,3,41,1741255254,"~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/CFGS-DAM/BOOM.c
+	*	1741265054	0
+	"	13	2
+	^	13	26
+	.	13	25
+	+	1	18
+	+	2	19
+	+	5	12
+	+	6	13
+	+	8	5
+	+	3	18
+	+	8	13
+	+	14	0
+	+	11	48
+	+	13	25
+
+> ~/script.c
+	*	1741264959	0
+	"	4	21
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio7.c
+	*	1741255968	0
+	"	8	31
+	^	8	32
+	.	6	71
+	+	1	295
+	+	1	296
+	+	1	295
+	+	1	97
+	+	1	132
+	+	1	119
+	+	1	210
+	+	1	260
+	+	1	208
+	+	1	273
+	+	1	295
+	+	1	293
+	+	15	2
+	+	3	2
+	+	16	1
+	+	6	71
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio6.c
+	*	1741255253	0
+	"	3	41
+	^	3	42
+	.	3	41
+	+	1	48
+	+	14	0
+	+	8	71
+	+	7	74
+	+	9	183
+	+	7	21
+	+	8	18
+	+	9	12
+	+	10	0
+	+	9	19
+	+	3	41
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio5.c
+	*	1741254338	0
+	"	12	70
+	^	12	71
+	.	12	70
+	+	1	49
+	+	1	18
+	+	13	237
+	+	7	66
+	+	9	19
+	+	8	13
+	+	9	23
+	+	14	0
+	+	13	16
+	+	8	15
+	+	7	69
+	+	14	1
+	+	15	0
+	+	8	13
+	+	3	37
+	+	7	67
+	+	12	70
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio4.c
+	*	1741252813	0
+	"	3	46
+	^	3	47
+	.	3	46
+	+	8	1
+	+	11	0
+	+	9	2
+	+	10	16
+	+	6	8
+	+	10	18
+	+	7	8
+	+	3	8
+	+	11	1
+	+	3	9
+	+	11	1
+	+	12	0
+	+	8	5
+	+	11	8
+	+	6	11
+	+	11	7
+	+	3	46
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio3.c
+	*	1741252560	0
+	"	3	33
+	^	3	34
+	.	3	33
+	+	1	105
+	+	1	0
+	+	1	18
+	+	1	66
+	+	13	0
+	+	1	66
+	+	13	0
+	+	1	67
+	+	12	0
+	+	6	24
+	+	12	0
+	+	6	15
+	+	5	0
+	+	6	23
+	+	3	33
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio2.c
+	*	1741252526	0
+	"	3	39
+	^	3	40
+	.	3	40
+	+	3	40
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio1.c
+	*	1741252483	0
+	"	3	33
+	^	3	34
+	.	3	33
+	+	3	33
+
+> ~/CFGS-DAM/Programación/Practica_Bucles/Ejercicio
+	*	1741250637	0
+	"	1	0
+
+> ~/.bash_history
+	*	1738148266	0
+	"	2	0
+
+> ~/CFGS-DAM/Programación/Practica_7/README.md
+	*	1737360222	0
+	"	1	33
+	^	1	35
+	.	1	33
+	+	1	0
+	+	1	33
+
+> ~/CFGS-DAM/Programación/P6_mejorado/biblioteca_mejorada.c
+	*	1734526667	0
+	"	1	0
+
+> ~/CFGS-DAM/Programación/EjerciciosClase/LineaComandos/10diciembre.c
+	*	1733835488	0
+	"	1	0
+
+> ~/CFGS-DAM/Programación/P6/biblioteca.c
+	*	1732708216	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/CFGS-DAM/Programación/biblioteca_gestion.c
+	*	1732708068	0
+	"	1	0
+
+> ~/CFGS-DAM/Programación/EjerciciosClase/Punteros/08_array_structs_en_clase.c
+	*	1732698541	0
+	"	1	0
+	^	1	1
+	.	107	0
+	+	1	18
+	+	107	0
 
 > ~/EXEC_Jacob_Navarro/ejercicio6.c
 	*	1732106893	0
@@ -2505,235 +2694,3 @@
 	+	16	29
 	+	17	30
 	+	4	13
-
-> ~/P1/SumaEntero.c
-	*	1727250137	0
-	"	19	13
-	^	19	14
-	.	7	12
-	+	5	10
-	+	4	22
-	+	7	5
-	+	6	28
-	+	7	1
-	+	8	0
-	+	8	34
-	+	9	11
-	+	4	33
-	+	9	17
-	+	7	16
-	+	11	17
-	+	12	14
-	+	11	13
-	+	14	22
-	+	13	20
-	+	12	19
-	+	11	18
-	+	9	18
-	+	7	17
-	+	19	25
-	+	18	28
-	+	17	28
-	+	24	60
-	+	23	60
-	+	22	58
-	+	24	42
-	+	23	47
-	+	22	35
-	+	16	1
-	+	26	0
-	+	24	47
-	+	27	0
-	+	1	0
-	+	14	15
-	+	23	10
-	+	22	8
-	+	21	6
-	+	24	12
-	+	14	5
-	+	9	13
-	+	7	12
-
-> ~/Programación/TiposDeDatos/TiposIniciales.c
-	*	1726832936	0
-	"	6	51
-	^	6	52
-	.	6	51
-	+	12	2
-	+	12	0
-	+	13	0
-	+	1	115
-	+	1	154
-	+	1	58
-	+	11	9
-	+	10	9
-	+	9	9
-	+	8	9
-	+	7	9
-	+	6	9
-	+	5	16
-	+	6	51
-
-> ~/Programación/P0/OperacionesDecimales.c
-	*	1726660546	0
-	"	10	39
-	^	10	40
-	.	10	39
-	+	5	13
-	+	5	14
-	+	6	0
-	+	9	0
-	+	7	23
-	+	9	65
-	+	7	23
-	+	6	29
-	+	11	0
-	+	10	38
-	+	6	18
-	+	7	12
-	+	9	61
-	+	10	1
-	+	12	0
-	+	9	45
-	+	10	39
-	+	9	43
-	+	10	37
-	+	9	45
-	+	10	39
-
-> ~/Programación/P0/OperacionesDeTres.c
-	*	1726660464	0
-	"	10	25
-	^	10	26
-	.	9	25
-	+	9	14
-	+	8	17
-	+	7	9
-	+	6	9
-	+	5	9
-	+	9	34
-	+	12	42
-	+	14	1
-	+	12	33
-	+	11	11
-	+	10	26
-	+	9	25
-
-> ~/Programación/P0/HolaQueTal.c
-	*	1726658778	0
-	"	6	8
-	^	6	9
-	.	6	8
-	+	1	35
-	+	5	0
-	+	1	18
-	+	4	0
-	+	6	8
-
-> ~/Programación/EjerciciosIniciales/operaciones.c
-	*	1726658428	0
-	"	16	18
-	^	16	19
-	.	16	18
-	+	7	33
-	+	6	10
-	+	5	10
-	+	11	23
-	+	8	13
-	+	12	11
-	+	11	16
-	+	8	6
-	+	13	15
-	+	10	0
-	+	8	13
-	+	15	28
-	+	13	17
-	+	19	1
-	+	13	20
-	+	15	30
-	+	16	23
-	+	7	32
-	+	11	13
-	+	12	7
-	+	15	42
-	+	17	0
-	+	14	0
-	+	13	24
-	+	7	9
-	+	9	0
-	+	6	6
-	+	5	5
-	+	7	5
-	+	6	11
-	+	9	1
-	+	8	15
-	+	7	3
-	+	6	3
-	+	5	3
-	+	7	30
-	+	6	6
-	+	5	5
-	+	16	18
-
-> ~/Programación/EjerciciosIniciales/división.c
-	*	1726656683	0
-	"	11	14
-	^	11	15
-	.	11	14
-	+	12	0
-	+	5	10
-	+	6	17
-	+	7	24
-	+	7	26
-	+	8	0
-	+	9	38
-	+	11	14
-
-> ~/Programación/EjerciciosIniciales/multi.c
-	*	1726656465	0
-	"	2	0
-	^	2	1
-	.	1	0
-	+	13	0
-	+	10	18
-	+	6	8
-	+	5	6
-	+	7	15
-	+	9	0
-	+	12	14
-	+	10	30
-	+	5	10
-	+	1	0
-
-> ~/Programación/EjerciciosIniciales/multiplicación.c
-	*	1726656050	0
-	"	14	1
-	^	14	2
-	.	13	14
-	+	14	1
-	+	5	6
-	+	6	7
-	+	7	24
-	+	9	4
-	+	7	22
-	+	6	11
-	+	11	50
-	+	7	27
-	+	13	14
-
-> ~/Programación/HolaMundo/HelloWorld.c
-	*	1726649769	0
-	"	7	0
-	^	7	1
-	.	5	22
-	+	7	0
-	+	5	22
-
-> ~/Programación/hola.txt
-	*	1726229691	0
-	"	2	14
-	^	2	2
-	.	2	1
-	+	2	15
-	+	3	0
-	+	2	1
